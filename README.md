@@ -316,6 +316,10 @@ New York City, US / [Website](https://www.propublica.org/data/)
 * [Sarah Slobin](https://twitter.com/sarahslo)
 * ? 
 
+## Radio-Canada
+* [Santiago Salcido](https://twitter.com/santiagosalcido)
+* ? 
+
 ## Reuters Graphics
 [@ReutersGraphics](https://twitter.com/ReutersGraphics)
 * ? 
